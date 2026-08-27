@@ -13,7 +13,7 @@ The project was developed as part of my **independent study** of the Python prog
 
 # Technologies & Concepts in the project
 
--  The Python Programming Language
+- The Python Programming Language
 - Variables and Data Types
 - Loops
 - Conditional Statements (if, elif, else)
@@ -29,11 +29,22 @@ The project was developed as part of my **independent study** of the Python prog
 4. The program **calculates the average, highest and lowest grades, and strongest and weakest subjects.**
 5. The user can enter a **desired average** and calculate the ****grade required** to achieve it**.
 6. The application generates an **overall performance assessment**. 
-7. The results are saved in an **academic performance report**. 
+7. The results are saved in an **academic performance report**.
+
+# How to run 
+1. Download or clone this repository
+2. Make sure Python 3 is installed
+3. Open a terminal in the project folder
+4. Run the following commands:
+   - navigate to Desktop - cd Desktop
+   - navigate to the folder containing the py. file - cd Student-Performance-Analyzer 
+   - open the Python file using Python or a Python-compatible editor
+   - run the program - python3 Student-Performance-Analyzer.py
+5. Follow the instructions displayed in the terminal.
 
 # Future Improvements
 - Allowing students to edit previously entered grades
-- Exporting reports in additional file formats 
+- Exporting reports in additional file formats
 
 # What I Learned
 
