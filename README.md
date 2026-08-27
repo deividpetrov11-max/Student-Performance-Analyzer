@@ -4,7 +4,7 @@ The operating principle is simple and the program is meticulously designed to be
      - Calculates their average grade
      - Identifies the strongest and weakest subjects 
      - Calculates the score required for a specific desired result 
-     -Supports customizable grading ranges
+     - Supports customizable grading ranges
      - Validates user input 
      - Compiles basic performance statistics 
      - Saves the results to a text file.
